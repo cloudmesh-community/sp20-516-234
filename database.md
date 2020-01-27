@@ -15,15 +15,28 @@ The data center is used for production colocation, back-up and recovery, and bus
 
 The data center has multiple redundant power sources to ensure it has a 100% service uptime. According to the Cyrus One website for this location the data center has 7 dedicated substations, 6 independent circuits to deliver power, and 40000 gallon fueld capacity for 2 dedicated generators. It also has a 13 MW capacity.
 
-To normalize the temperature in the facility the Cyrus One downtown Cincinnati data center uses a rasied floor design in tandem with multiple cooling systems. This facility uses a water cooling design comprised of 1200 ton Centrifugal chillers and a closed loop chilled water cooling design. It also cools the air with a Hunt Air ACU that has a variable-speed fan system on all halls or levels. 
+To normalize the temperature in the facility the Cyrus One downtown Cincinnati data center uses a rasied floor design in tandem with multiple cooling systems. This facility uses a water cooling design comprised of 1200 ton Centrifugal chillers and a closed loop chilled water cooling design. It also cools the air with a Hunt Air ACU that has a variable-speed fan system on all halls or levels.
+
+https://cyrusone.com/resources/tools/colocation-data-center/
+
+https://cyrusone.com/locations/ohio/7th-street/
+
+https://cyrusone.com/app/uploads/2019/03/Cincinnati-7th-Spec-Sheet-Final.pdf
+
+https://cyrusone.com/
+
 
 ## E.Datacenter.3
 
 Per entering my data into the Berkeley Carbon Footprint Calculator, I received a calculated carbon footprint of 20 tons of C02eq/yr. This is equivalent to about 40000 lbs of carbon.
 
+https://coolclimate.berkeley.edu/calculator
+
 ## E.Datacenter.4
 
 Data centers produce an excessive amount of heat based on the number of servers running in their facilities. Some facilities have started to route their heat to on site and off site locations to be used and recycled for useful purposes such as heating homes, offices, greenhouses, etc.
+
+https://www.datacenterknowledge.com/data-centers-that-recycle-waste-heat
 
 ## E.Datacenter.5
 
