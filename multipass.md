@@ -4,6 +4,8 @@
 
 Provide a list of images that are supported on your system.
 
+### Supported Images for Mac OSX 
+
 |Image|Aliases|Version|Description|
 |-|-|-|-|
 |snapcraft:core|core16|20200115|Snapcraft builder for Core 16|
