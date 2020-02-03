@@ -1,4 +1,6 @@
-# Database Excercises
+# Database :o2: Excercises
+
+:o2: attending markdown session mandatory
 
 ## E.Datacenter.2.a
 
