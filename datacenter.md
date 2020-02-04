@@ -11,13 +11,23 @@ https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-system
 
 ## E.Datacenter.2.b
 
-Cyrus One is company with data centers across the world satisfying computing needs for their customers by offering more than 45 data centers globally. The data center highlighted in this exercise is located in downtown Cincinnati, Ohio and is one of five in the metro area. 
+Cyrus One is company with data centers across the world satisfying computing needs for their customers by offering more 
+than 45 data centers globally. The data center highlighted in this exercise is located in downtown Cincinnati, Ohio and 
+is one of five in the metro area. 
 
-The data center is used for production colocation, back-up and recovery, and business continuity. While Cyrus one designates different purposes for their data centers this one highlights its focus on disaster recorvery. The facility is 425,000 sq feet with 212,000 sq feet designated for colocation specifically. It is Cincinnati's primary switching facility on the FEMA priority list.  
+The data center is used for production co-location, back-up and recovery, and business continuity. While Cyrus one 
+designates different purposes for their data centers this one highlights its focus on disaster recovery. The facility is
+ 425,000 sq feet with 212,000 sq feet designated for co-location specifically. It is Cincinnati's primary switching facility 
+ on the FEMA priority list.  
 
-The data center has multiple redundant power sources to ensure it has a 100% service uptime. According to the Cyrus One website for this location the data center has 7 dedicated substations, 6 independent circuits to deliver power, and 40000 gallon fueld capacity for 2 dedicated generators. It also has a 13 MW capacity.
+The data center has multiple redundant power sources to ensure it has a 100% service uptime. According to the Cyrus One
+ website for this location the data center has 7 dedicated substations, 6 independent circuits to deliver power, and 40000
+  gallon fueled capacity for 2 dedicated generators. It also has a 13 MW capacity.
 
-To normalize the temperature in the facility the Cyrus One downtown Cincinnati data center uses a rasied floor design in tandem with multiple cooling systems. This facility uses a water cooling design comprised of 1200 ton Centrifugal chillers and a closed loop chilled water cooling design. It also cools the air with a Hunt Air ACU that has a variable-speed fan system on all halls or levels.
+To normalize the temperature in the facility the Cyrus One downtown Cincinnati data center uses a raised floor design in 
+tandem with multiple cooling systems. This facility uses a water cooling design comprised of 1200 ton Centrifugal chillers 
+and a closed loop chilled water cooling design. It also cools the air with a Hunt Air ACU that has a variable-speed fan 
+system on all halls or levels.
 
 https://cyrusone.com/resources/tools/colocation-data-center/
 
@@ -30,7 +40,8 @@ https://cyrusone.com/
 
 ## E.Datacenter.3
 
-Per entering my data into the Berkeley Carbon Footprint Calculator, I received a calculated carbon footprint of 20 tons of C02eq/yr. This is equivalent to about 40000 lbs of carbon.
+Per entering my data into the Berkeley Carbon Footprint Calculator, I received a calculated carbon footprint of 20 tons 
+of C02eq/yr. This is equivalent to about 40000 lbs of carbon.
 
 https://coolclimate.berkeley.edu/calculator
 
@@ -41,13 +52,13 @@ Data centers produce an excessive amount of heat based on the number of servers 
 facilities have started to route their heat to on site and off site locations to be used and recycled for useful 
 purposes such as heating homes, offices, greenhouses, etc.
 
-The rows of data centers tend to be heated between 80-115 degrees F. It is common for data centers to use heat pumps to boost the temperature of waste heat to make it more viable for 
-heating external buildings. The heat is often transferred from the air into a liquid or a different medium than just 
-the air. Transferring the heat into liquids can make it easier to transfer the heat generated at the data center and incorporate
- it into different external heating systems. 
+The rows of data centers tend to be heated between 80-115 degrees F. It is common for data centers to use heat pumps to 
+boost the temperature of waste heat to make it more viable for heating external buildings. The heat is often transferred 
+from the air into a liquid or a different medium than just the air. Transferring the heat into liquids can make it easier 
+to transfer the heat generated at the data center and incorporate it into different external heating systems. 
  
 Facebook and Amazon are making use of this heat recycling technique to make their data centers more sustainable. Heat 
-recycling is also a good way to benefit the community from the perspective of these companies because the heat is often trasnferred
+recycling is also a good way to benefit the community from the perspective of these companies because the heat is often transferred
 into the larger heating network of the surrounding area once it has been captured. Specifically, the Facebook Odense
 data center in Denmark makes use of the heat recycling technology in an effort to boost sustainability. This data center
 captures the heat generated by its servers by heating water coils and heating water which is then pumped to a heat pump facility
@@ -82,9 +93,9 @@ were being built, such as Odense.
 
 Denmark has developed a global reputation for being a leader in renewables and has come a long way since 2010. According to 
 Ren21's 2019 report Denmark was the number one country for generating electricity via renewables at 51%, this beat their set goal
-of over 50% renewable electricity generation by two years. While setting lofty goals for overall pwoer generation, Denmark
+of over 50% renewable electricity generation by two years. While setting lofty goals for overall power generation, Denmark
 has set some societal standards that impact the day to day of it's citizens. The government has set regulations on .9% biofuel
-mandate for 2020 as well as standards for building efficency and solar heating requirements. Overall Denmark is global leader
+mandate for 2020 as well as standards for building efficiency and solar heating requirements. Overall Denmark is global leader
 in just about every way regarding the push to renewables and could be a good model for many other countries.
 
 https://www.ren21.net/wp-content/uploads/2019/05/gsr_2019_full_report_en.pdf 
@@ -93,4 +104,36 @@ https://www.reuters.com/article/us-denmark-energy/denmark-aims-for-100-percent-r
 
 ## E.Datacenter.8
 
-Data center outage question
+In August 2016 Delta Airlines had a significant data center outage that impacted it's business for a three day period. This 
+outage would cost the airline upwards of an estimated $150 million "illustrating that major airlines have a lot more 
+at stake when designing and managing critical infrastructure than most other data center operators". This data center outage
+impacted Delta Airlines for five hours, but would take them three days to right it's business operations.
+ 
+According to a 2016 study conducted by the Poneman Institute, the mean cost per minute of a data center outage is $8,851. 
+Using that to calculate the total cost of the outage alone, not including estimated business loss for Delta, was $2,655,300.
+It is easy to see the wide range of the impact a 5 hour outage when considering the outage, on average, cost Delta over $2.5 million, 
+but the total estimated loss for the company was around $150 million. To close the gap from 2 to 150 million dollars in loss
+the total operational expense must be considered. The outage resulted in Delta having to ground over 2000 flights. This 
+significant number of groundings resulted in delays and cancellations that amounted a to significant number or refunds.
+
+Beyond the direct monetary hit Delta took, the impact on the companies reputation must also be considered. 
+The company benefits from people viewing it as reliable and safe for their transportation needs, but if a data center outage 
+can grind their operations to a halt for three days in a specific region impacting thousands of people, Delta loses public trust.
+Overall, however, the impact of the outage did not impact their investors perception of the company. Assessing the root cause 
+of the outage is critical to understand how to prevent similar situations in the future for such a central component of
+Delta's day to day operations. This assessment showed that the center failed due to electrical equipment failure and an 
+insufficient backup system that did automatically kick on. This alone shows a good example of the importance of redundancy
+in a data center to ensure uptime and prevent extremely costly outage events that impact not just companies, but the 
+people who rely on those companies in their daily lives. 
+ 
+https://www.vertiv.com/globalassets/documents/reports/2016-cost-of-data-center-outages-11-11_51190_1.pdf
+
+https://money.cnn.com/2016/09/07/technology/delta-computer-outage-cost/
+
+https://www.datacenterknowledge.com/archives/2016/09/08/delta-data-center-outage-cost-us-150m
+
+https://data-economy.com/an-array-of-airline-outages-due-to-data-centre-failures/
+
+https://money.cnn.com/2016/08/09/news/companies/delta-flights-system-outage-delays-cancellations/index.html?iid=EL
+
+https://www.datacenterknowledge.com/archives/2016/08/08/delta-data-center-outage-grounds-hundreds-flights
