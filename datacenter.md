@@ -4,9 +4,9 @@
 
 ## E.Datacenter.2.a
 
-https://energychoice.ohio.gov/ApplesToApplesComparision.aspx?Category=Electric&TerritoryId=4&RateCode=1
+<https://energychoice.ohio.gov/ApplesToApplesComparision.aspx?Category=Electric&TerritoryId=4&RateCode=1>
 
-https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/
+<https://www.se.com/ww/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/>
 
 
 ## E.Datacenter.2.b
