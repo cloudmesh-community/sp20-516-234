@@ -41,6 +41,8 @@ Intel Neural copute stick 2
 
 VPU vs TPU
 
+:o2: urls wrong
+
 https://www.arrow.com/en/research-and-events/articles/google-coral-edge-tpu-accelerator-vs-intel-neural-compute-stick-2
 https://coral.ai/technology/
 
