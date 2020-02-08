@@ -1,6 +1,21 @@
+# Week 4 February 4 - February 10
+
+* Reviewed python provider.py exercises
+* Completed the cloudmesh exercises
+* Attended lecture and presented during lecture
+* Competed bibtex and pushed file to repo
+* Began work on chapter
+* Reached out to Google to try and get a complimentary google edge accelerator 
+* Installed cloudmesh multipass
+
 # Week 3 January 28 - February 3
 
 * Completed venv questions
+* Completed revisions to datacenter.md 
+* Attended lecture and set up cms and cloudmesh-installer
+* Selected chapter 
+* Began work on the cloudmesh exercises
+* Created bibtex file for datacenter.md
 
 **Why are we using virtual environments in this class?**
 
