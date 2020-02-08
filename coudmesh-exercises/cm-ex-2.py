@@ -8,5 +8,7 @@ data ={
 
 data = dotdict(data)
 
-if data.state_name.contains("A"):
+if data.state_name == ("Arunachal Pradesh"):
    print(data.state_id)
+else:
+    print("Not Found")
