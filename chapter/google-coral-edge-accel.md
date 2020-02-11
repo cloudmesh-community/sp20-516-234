@@ -1,7 +1,6 @@
 # Outline 
 
 ## Introduction 
-
 - mission statement of coral is "local ecosystem for AI"
 
 ## Overview of Coral project
