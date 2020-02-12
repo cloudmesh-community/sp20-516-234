@@ -1,4 +1,4 @@
-# Database :o2: Excercises
+# Datacenter sp20-516-234 Andrew Goldfarb
 
 :o2: attending markdown session mandatory
 
