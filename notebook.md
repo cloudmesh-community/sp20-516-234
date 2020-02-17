@@ -1,3 +1,14 @@
+# Week 5 February 11 - February 18
+
+* Submitted project proposal for Cloud AI Services
+* Configured `cloudmesh.yaml` file 
+* Installed MongoDB using the auto install feature of cloudmesh
+* Resolved install issues by placing mongoDB location in bash profile
+* Reviewed OpenAPI3.0 section of textbook 
+* Worked on chapter for Google Coral
+* Confirmed peer review partner dropped and can just proceed on writing
+* Successfully booted a VM on Chameleon Cloud using Horizon and CMS
+
 # Week 4 February 4 - February 10
 
 * Reviewed python provider.py exercises
