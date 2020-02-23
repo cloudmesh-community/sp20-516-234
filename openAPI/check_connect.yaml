@@ -1,0 +1,34 @@
+openapi: 3.0.2
+info:
+  title: connectionProcess
+  description: A service to get the IP currently connected to by server running function
+  license:
+    name: Apache 2.0
+  version: 0.0.1
+
+servers:
+  - url: http://localhost:8080/openAPI/
+
+paths:
+  /timer:
+    get:
+      summary: Returns connection information about IP on a trivial function to do a basic connection test
+      operationId: check_connect.check_connection_type
+      responses:
+        '200':
+          description: returns if user is connected to local host for launching applications or connected to an active IP
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/checkConnect"
+
+components:
+  schemas:
+    checkConnect:
+      type: "object"
+      required:
+        - "connection"
+      properties:
+        connection:
+          type: string
+
