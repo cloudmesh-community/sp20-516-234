@@ -54,7 +54,7 @@ examples that google outlines individually for each device. A lot of the
 performance specifications overlap and are shared due to the Edge TPU, but the
 specifics vary a bit from device to device. 
 
-![Coral Products](./coralProducts.png)
+![Coral Products [@Products-sp20-516-234]](./coralProducts.png){#fig:Coral-Product-Line width=1in}
 
 # Edge TPU processor
 
@@ -165,7 +165,7 @@ Google provides a visualization of the process, including the model type at each
 stage, to show how to properly deploy a model that is compatible with the Edge
 TPU.
 
-![TensorFlowLiteDeployment](./modelFlow.png)
+![TensorFlowLiteDeployment [@CoralModels-sp20-516-234]](./modelFlow.png){#fig:Deploy-Model-To-Coral width=1in}
 
 <!-- https://coral.ai/docs/edgetpu/models-intro/
 
