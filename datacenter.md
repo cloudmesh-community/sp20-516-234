@@ -1,8 +1,10 @@
 # Datacenter sp20-516-234 Andrew Goldfarb
 
-:o2: attending markdown session mandatory
+:o2: use space before citation
 
 ## E.Datacenter.2.a
+
+:o2: a full centence is needed
 
 [@EnergyCost-sp20-516-234]
 
