@@ -54,7 +54,7 @@ examples that google outlines individually for each device. A lot of the
 performance specifications overlap and are shared due to the Edge TPU, but the
 specifics vary a bit from device to device. 
 
-![Coral Products [@Products-sp20-516-234]](./coralProducts.png){#fig:Coral-Product-Line width=1in}
+![Coral Products [@Products-sp20-516-234]](./coralProducts.png){#fig:Coral-Product-Line}
 
 # Edge TPU processor
 
@@ -117,32 +117,32 @@ device is as follows:
 
 1. Pick a model
 
-The Coral product family supports a number of pre compiled models that can be
-found on their website, [here](https://coral.ai/models/), but TensorFlow Lite
-and the Coral products do support custom models or third party models as long as
-they are properly converted to TensorFlow
-Lite[@TensorFlowLiteGuide-sp20-516-234].
+   The Coral product family supports a number of pre compiled models that can be
+   found on their website, [here](https://coral.ai/models/), but TensorFlow Lite
+   and the Coral products do support custom models or third party models as long as
+   they are properly converted to TensorFlow
+   Lite[@TensorFlowLiteGuide-sp20-516-234].
 
 2. Convert the model
 
-For any model that is not pre-compiled to run successfully on the Coral devices
-it is required to convert that model to TensorFlow Lite. The directions for that
-process of using the TensorFlow Lite Convertor can be found on [Google's
-website](https://www.tensorflow.org/lite/convert/index)[@TensorFlowLiteGuide-sp20-516-234].
+   For any model that is not pre-compiled to run successfully on the Coral devices
+   it is required to convert that model to TensorFlow Lite. The directions for that 
+   process of using the TensorFlow Lite Convertor can be found on [Google's
+   website](https://www.tensorflow.org/lite/convert/index)[@TensorFlowLiteGuide-sp20-516-234].
 
 3. Deploy to your device
 
-Run the model on the device with the interpreter. This is where the user is able
-to make use of the TensorFlow APIs to run the inferences locally on their
-embedded devices[@TensorFlowLiteGuide-sp20-516-234]. 
+   Run the model on the device with the interpreter. This is where the user is able
+   to make use of the TensorFlow APIs to run the inferences locally on their
+   embedded devices[@TensorFlowLiteGuide-sp20-516-234]. 
 
 4. Optimize your model
 
-This is the final step laid out by Google in the workflow. This is commonly a
-final step in any process once you have proven it works and is stable, the user
-can then move to optimize their inferences and reduce the compute power
-required. Google offers a model optimization toolkit to improve the use of
-available power on the Coral devices[@TensorFlowLiteGuide-sp20-516-234].
+   This is the final step laid out by Google in the workflow. This is commonly a
+   final step in any process once you have proven it works and is stable, the user
+   can then move to optimize their inferences and reduce the compute power
+   required. Google offers a model optimization toolkit to improve the use of
+   available power on the Coral devices[@TensorFlowLiteGuide-sp20-516-234].
 
 These steps are not specific to Google Coral products, they are steps Google
 shares to provide guidance for anyone building models on any edge device
