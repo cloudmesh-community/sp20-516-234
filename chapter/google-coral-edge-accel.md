@@ -193,17 +193,19 @@ headless machine learning apps" [@MDT-sp20-516-234]. Google provides a tool
 called the MDT which makes connecting and running commands on the board remotely
 possible.
 
-<!-- TODO: maybe an example of using MDT? -->
+<!-- 
 
+TODO: maybe an example of using MDT? 
 
- <!-- https://coral.ai/docs/dev-board/mdt/
+https://coral.ai/docs/dev-board/mdt/
 - Debian Flacor Mendel 
     - optimatized for embedded systems
 - headless ML applications?
     - do researhc ont eh architecture of an ML app
 - parallel computing for multiple models
 
-https://coral.ai/docs/dev-board/datasheet/ -->
+https://coral.ai/docs/dev-board/datasheet/ 
+-->
 
 
 # Edge TPU Accelerator
