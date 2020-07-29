@@ -56,7 +56,7 @@ specifics vary a bit from device to device.
 
 ![Coral Products [@Products-sp20-516-234]](./coralProducts.png){#fig:Coral-Product-Line}
 
-# Edge TPU processor
+## Edge TPU processor
 
 The driving chip behind all of Google's Coral hardware offerings is the Tensor
 Processing Unit (TPU), "a proprietary Application Specific Integrated Circuit
@@ -99,7 +99,7 @@ Accelerator [@TPUInDepth-sp20-516-234].
 
 https://coral.ai/technology/ -->
 
-# TensorFlow Lite
+## TensorFlow Lite
 
 The Coral product family is dependant on all models being pre-compiled and
 converted into a TensorFlow Lite file [@Products-sp20-516-234]. The Edge TPU is
@@ -172,7 +172,7 @@ TPU.
 https://coral.ai/models/
 https://cloud.google.com/vision/automl/docs/edge-quickstart -->
 
-# Dev board
+## Dev board
 
 Google Coral offers a single board computer, similar to a Raspberry Pi, called
 the Dev Board that has an on-board TPU chip designed for prototyping local
@@ -208,7 +208,7 @@ https://coral.ai/docs/dev-board/datasheet/
 -->
 
 
-# Edge TPU Accelerator
+## Edge TPU Accelerator
 
 Coral offers the USB Accelerator for purely prototyping on an existing system
 instead of using a single board computer to put together a full solution, as is
